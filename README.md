@@ -1,7 +1,7 @@
 # InPlay Inc
 
 Wireless silicon powering the next wave of Industrial IoT innovation.
-Our technology addresses major shortcomings in low-latency, edge networking, and active Beacon, enabling you to build IIoT solutions that meet many of today's diverse requirements and challenges.
+Our technology addresses major shortcomings in low-latency, edge networking, and active RFID, enabling you to build IIoT solutions that meet many of today's diverse requirements and challenges.
 
 ## config files
 
